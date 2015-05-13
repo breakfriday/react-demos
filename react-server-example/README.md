@@ -1,3 +1,5 @@
+This demo is copied from [github.com/mhart/react-server-example](https://github.com/mhart/react-server-example)
+
 react-server-example
 --------------------
 
