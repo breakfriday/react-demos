@@ -42,5 +42,5 @@ module.exports = React.createClass({
       })})
 
     )
-  },
+  }
 })
